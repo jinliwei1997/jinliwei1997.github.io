@@ -4,13 +4,25 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2025/03/15/hello-world/"/>
-    <url>/2025/03/15/hello-world/</url>
+    <title>searcher</title>
+    <link href="/2025/03/15/searcher/"/>
+    <url>/2025/03/15/searcher/</url>
     
     <content type="html"><![CDATA[<p>TEST</p>]]></content>
     
     
+    <categories>
+      
+      <category>杂谈</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>杂谈</tag>
+      
+    </tags>
     
   </entry>
   
